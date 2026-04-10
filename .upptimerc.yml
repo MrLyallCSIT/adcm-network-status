@@ -14,7 +14,7 @@ sites:
   - name: Mottashaw Consulting
     url: https://www.mottashaw.co.uk/
   - name: Poseidon IPv4
-    url: ${Poseidon_HOSTNAME}
+    url: $Poseidon_HOSTNAME
     type: globalping
     check: tcp-ping
     ipv6: false
