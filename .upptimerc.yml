@@ -16,12 +16,14 @@ sites:
   - name: Poseidon IPv4
     url: $Poseidon_HOSTNAME
     type: globalping
-    check: tcp-ping
+    port: 80
+    check: "tcp-ping"
     ipv6: false
   - name: Poseidon IPv6
     url: $Poseidon_HOSTNAME
     type: globalping
-    check: tcp-ping
+    port: 80
+    check: "tcp-ping"
     ipv6: true
 
 status-website:
