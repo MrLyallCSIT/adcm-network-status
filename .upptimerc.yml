@@ -5,6 +5,9 @@ repo: adcm-network-status # The name of this repository
 sites:
   - name: Network Cloud Gateway
     url: $GATEWAY_HOSTNAME
+    type: globalping
+    port: 80
+    check: "tcp-ping"
   - name: Computing:Box
     url: https://www.computingbox.co.uk/
   - name: Keresley Church
