@@ -1,7 +1,7 @@
-url: ${Poseidon_HOSTNAME}
+url: $Poseidon_HOSTNAME
 status: down
 code: 400
 responseTime: 0
-lastUpdated: 2026-04-10T21:10:58.089Z
+lastUpdated: 2026-04-10T21:16:39.004Z
 startTime: 2026-04-10T21:08:27.740Z
 generator: Upptime <https://github.com/upptime/upptime>
