@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 231,
+      "2026-05-25": 1387,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -70,14 +70,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.computingbox.co.uk.ico",
     "slug": "computing-box",
     "status": "down",
-    "uptime": "94.68%",
+    "uptime": "94.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.38%",
+    "uptimeWeek": "97.61%",
     "uptimeMonth": "95.83%",
-    "uptimeYear": "94.68%",
+    "uptimeYear": "94.77%",
     "time": 792,
     "timeDay": 3646,
-    "timeWeek": 1046,
+    "timeWeek": 1120,
     "timeMonth": 808,
     "timeYear": 792,
     "dailyMinutesDown": {
@@ -112,15 +112,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.keresley.church.ico",
     "slug": "keresley-church",
     "status": "down",
-    "uptime": "95.60%",
-    "uptimeDay": "91.38%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "95.60%",
+    "uptime": "95.66%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "95.66%",
     "time": 3072,
-    "timeDay": 1980,
+    "timeDay": 2444,
     "timeWeek": 5832,
-    "timeMonth": 3769,
+    "timeMonth": 3812,
     "timeYear": 3072,
     "dailyMinutesDown": {
       "2026-04-10": 95,
@@ -147,7 +147,8 @@
       "2026-05-17": 63,
       "2026-05-19": 112,
       "2026-05-23": 121,
-      "2026-05-24": 124
+      "2026-05-24": 124,
+      "2026-05-25": 10
     }
   },
   {
@@ -156,15 +157,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.keresley.church.ico",
     "slug": "keresley-church-beta-site",
     "status": "down",
-    "uptime": "91.52%",
-    "uptimeDay": "92.05%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "91.52%",
+    "uptime": "91.66%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "91.66%",
     "time": 1138,
-    "timeDay": 1093,
+    "timeDay": 1796,
     "timeWeek": 1364,
-    "timeMonth": 1236,
+    "timeMonth": 1069,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2026-04-10": 93,
@@ -191,7 +192,8 @@
       "2026-05-14": 109,
       "2026-05-19": 204,
       "2026-05-23": 111,
-      "2026-05-24": 114
+      "2026-05-24": 114,
+      "2026-05-25": 5
     }
   },
   {
@@ -200,13 +202,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mottashaw.co.uk.ico",
     "slug": "mottashaw-consulting",
     "status": "down",
-    "uptime": "97.87%",
-    "uptimeDay": "92.72%",
+    "uptime": "97.91%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.95%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "97.91%",
     "time": 663,
-    "timeDay": 669,
+    "timeDay": 607,
     "timeWeek": 675,
     "timeMonth": 660,
     "timeYear": 663,
@@ -222,7 +224,8 @@
       "2026-04-26": 45,
       "2026-05-14": 104,
       "2026-05-23": 101,
-      "2026-05-24": 105
+      "2026-05-24": 105,
+      "2026-05-25": 1
     }
   },
   {
@@ -242,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 231,
+      "2026-05-25": 1387,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -307,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 231,
+      "2026-05-25": 1387,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
