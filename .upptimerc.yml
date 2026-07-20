@@ -4,7 +4,7 @@ repo: adcm-network-status # The name of this repository
 
 sites:
   - name: Network Cloud Gateway
-    url: 51.68.180.153
+    url: gateway.adcmnetworks.co.uk # Use a hostname pointing to 51.68.180.153
     type: globalping
     port: 80
     check: "tcp-ping"
@@ -21,13 +21,13 @@ sites:
     url: https://www.mottashaw.co.uk/
     type: globalping
   - name: Poseidon IPv4
-    url: 51.68.180.154
+    url: ipv4.poseidon.adcmnetworks.co.uk # Use a hostname pointing to 51.68.180.154
     type: globalping
     port: 80
     check: "tcp-ping"
     ipv6: false
   - name: Poseidon IPv6
-    url: 2001:db8::1
+    url: ipv6.poseidon.adcmnetworks.co.uk # Use a hostname with an AAAA record
     type: globalping
     port: 80
     check: "tcp-ping"
