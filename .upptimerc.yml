@@ -32,6 +32,18 @@ sites:
     port: 80
     check: "tcp-ping"
     ipv6: true
+  - name: Nemesis IPv4
+    url: ipv4.nemesis.adcmnetworks.co.uk # Use a hostname pointing to 51.68.180.154
+    type: globalping
+    port: 80
+    check: "tcp-ping"
+    ipv6: false
+  - name: Nemesis IPv6
+    url: ipv6.nemesis.adcmnetworks.co.uk # Use a hostname with an AAAA record
+    type: globalping
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
