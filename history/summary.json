@@ -130,18 +130,20 @@
     "url": "https://www.computingbox.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.computingbox.co.uk.ico",
     "slug": "computing-box",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 191,
-    "timeWeek": 157,
-    "timeMonth": 169,
-    "timeYear": 622,
-    "dailyMinutesDown": {}
+    "time": 619,
+    "timeDay": 167,
+    "timeWeek": 155,
+    "timeMonth": 168,
+    "timeYear": 619,
+    "dailyMinutesDown": {
+      "2026-08-23": 0
+    }
   },
   {
     "name": "Keresley Church",
